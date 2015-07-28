@@ -40,49 +40,102 @@
     * Scout Rifle
     * Submachine Gun
   * Tools
-    * asdf
+    * Cloaking Device
+      * Hunter Cloaking
+      * Nano-Armor
+      * Other Cloaking
+    * Recon Detect Device
   * Explosives
-    * fg
+    * Grenades
+      * Frag
+      * EMP
+      * Decoy
+    * Anti-Personnel Mine
 * Light Assault
   * Assault class
   * Weapons
     * Pistol
+    * Carbine
+    * Shotgun
+    * Submachine Gun
   * Tools
-    * asdf
+    * JumpJets
+      * Standard
+      * Drifter
   * Explosives
-    * fg
+    * Grenades
+      * Frag
+      * Flash
+      * Smoke
+    * C4
 * Combat Medic
   * Healer class
   * Weapons
     * Pistol
+    * Assault Rifle
+    * Shotgun
+    * Submachine Gun
   * Tools
-    * asdf
+    * Medical Applicator
+    * Nano-Regen Devices
   * Explosives
-    * fg
+    * Grenades
+      * Frag
+      * Nanite Healing
+      * Nanite Revive
+    * C4
 * Engineer
   * Repair & Rearm class
   * Weapons
     * Pistol
+    * Carbine
+    * Battle Rifle
+    * Shotgun
+    * Submachine Gun
   * Tools
-    * asdf
+    * A.C.E.
+    * Nano Armor Kit
+    * Ammunition Package
   * Explosives
-    * fg
+    * Grenades
+      * Frag
+      * Sticky
+    * Mines
+      * Anti-Personnel
+      * Anti-Armor
+    * C4
 * Heavy Assault
   * Anti-vehicle/installation class
   * Weapons
     * Pistol
+    * Light Machine Gun
+    * Battle Rifle
+    * Shotgun
+    * Submachine Gun
+    * Rocket Launcher
   * Tools
-    * asdf
+    * Personal Shield System
   * Explosives
-    * fg
+    * Grenades
+      * Frag
+      * Concussion
+      * Anti-vehicle
+    * C4
 * MAX
   * Walking tank
   * Weapons
-    * fadaf
-  * Tools
-    * asdf
-  * Explosives
-    * fg
+    * Anti-Infantry Flamethrower
+    * Anti-Infantry Scatter-Cannon
+    * Anti-Infantry Minigun
+    * Anti-Vehicular Mortar
+    * Anti-Air Flak Cannon
+  * Abilities
+    * Charge
+    * Ammo Storage Canister
+    * Empire-Specific
+      * Aegis Shield (NC)
+      * Lockdown (TR)
+      * Zealot Overdrive (VS)
 
 ### Faction Specifics
 Maybe condence this into Factions above or move Factions down here.
