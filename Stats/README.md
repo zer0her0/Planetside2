@@ -1,1 +1,1 @@
-The player & Outfie stats will go here.
+The player & Outfit stats will go here.

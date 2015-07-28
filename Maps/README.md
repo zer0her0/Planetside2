@@ -1,1 +1,1 @@
-The dynamic maps & alters project will reside here.
+The dynamic maps & alerts project will reside here.
