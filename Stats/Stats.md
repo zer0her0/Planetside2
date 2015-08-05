@@ -6,3 +6,9 @@ Example:
 http://census.soe.com/get/ps2ps4us/character?name.first=zer0her0
 
 http://census.soe.com/get/ps2ps4us/character?name.first=is0dd
+
+http://ps4us.ps2.fisu.pw/
+
+http://ps4us.ps2.fisu.pw/player/?name=zer0her0&show=statistic
+
+http://ps4us.ps2.fisu.pw/outfit/?name=se7n
