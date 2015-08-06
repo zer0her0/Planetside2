@@ -1,4 +1,4 @@
-Recoil Patterns
+Recoil & Bullet Drop Patterns
 
 http://ps2guides.besaba.com/weapons/mechanics
 
@@ -7,3 +7,5 @@ https://github.com/vedkelad/vedkelad.github.io
 
 Matlab implementation of recoil:
 https://github.com/Kalyan12/PS2-Recoil
+
+Formulas
