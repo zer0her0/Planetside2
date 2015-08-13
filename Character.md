@@ -51,4 +51,4 @@ NS Annihilator
 
 Cells Camo - Unlocked w/o DBC
 
-### is0dd - Crux
+### is0dd - Crux/Searhus
